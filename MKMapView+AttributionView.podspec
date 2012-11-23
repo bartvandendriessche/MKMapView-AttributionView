@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name = 'MKMapView+AttributionView'
-  s.version = '0.1'
+  s.version = '0.0.1'
   s.authors = {'Bart Vandendriessche' => 'bart.vandendriessche@gmail.com'}
   s.homepage = 'https://github.com/bartvandendriessche/MKMapView-AttributionView'
   s.summary = 'A drop-in replacement for UILabel that supports attributes, data detectors, links, and more.'
