@@ -21,6 +21,7 @@
 // THE SOFTWARE.
 
 #import <Foundation/Foundation.h>
+#import <MapKit/MapKit.h>
 
 @interface MKMapView (AttributionView)
 
