@@ -3,7 +3,7 @@ Pod::Spec.new do |s|
   s.version = '0.0.1'
   s.authors = {'Bart Vandendriessche' => 'bart.vandendriessche@gmail.com'}
   s.homepage = 'https://github.com/bartvandendriessche/MKMapView-AttributionView'
-  s.summary = 'A drop-in replacement for UILabel that supports attributes, data detectors, links, and more.'
+  s.summary = 'A MKMapView category that adds a method to obtain the AttributionView.'
   s.source = {:git => 'https://github.com/bartvandendriessche/MKMapView-AttributionView.git', :commit => :head}
   s.license = { :type => 'MIT', :text => <<-LICENSE
                 Copyright (c) 2012 Bart Vandendriessche
